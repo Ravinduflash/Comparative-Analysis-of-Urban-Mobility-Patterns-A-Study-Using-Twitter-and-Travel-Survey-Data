@@ -1,0 +1,72 @@
+Title Slide:
+
+Title of your research proposal.
+Your name and supervisors.
+Date of presentation.
+Slide 1: Introduction:
+
+Brief overview of your research topic and its significance.
+State the problem your research addresses.
+Explain why this study is important.
+Slide 2: Research Question, Aim, and Objectives:
+
+Clearly state your research question.
+Define the aim of your research (what you intend to achieve).
+List specific objectives that support the aim.
+Slide 3: Literature Synopsis:
+
+Summarize key findings from the most relevant literature (focus on 10 papers).
+Include visuals like charts, graphs, or summary tables to make it concise and clear.
+Slide 4: Data Set and Methodology:
+
+Provide details about your dataset (type, source, and relevance).
+Outline your methodology for analyzing the dataset.
+Use diagrams or flowcharts for clarity.
+Slide 5: Expected Outcomes:
+
+Describe the potential results and their implications.
+Highlight how these outcomes will address the research problem.
+Be visual where possible.
+
+
+
+14: -A growing body of literature has been devoted to harnessing the crowdsourcing power of social media by extracting knowledge from the huge amounts of information available online. This paper discusses how social media data can be used indirectly and with minimal cost to extract travel attributes such as trip purpose and activity location. As a result, the capacity of Twitter data in complementing other sources of transport related data such as household travel surveys or traffic count data is examined. Further, a detailed discussion is provided on how short term travellers, such as tourists, can be identified using Twitter data and how their travel pattern can be analysed. Having appropriate information about tourists/visitors -- such as the places they visit, their origin and the pattern of their movements at their destination -- is of great importance to urban planners. The available profile information of users and self-reported geo-location data on Twitter are used to identify tourists visiting Sydney as well as also those Sydney residents who made a trip outside Sydney. The presented data and analysis enable us to understand and track tourists' movements in cities for better urban planning. The results of this paper open up avenues for travel demand modellers to explore the possibility of using big data (in this case Twitter data) to model short distance (day-to-day or activity based) and long distance (vacation) trips.
+
+15:- Emerging location-based services in social media tools such as Foursquare and Twitter are providing an unprecedented amount of public-generated data on human movements and activities. This novel data source contains valuable information (e.g., geo-location, time and date, type of places) on human activities. While the data is tremendously beneficial in modeling human activity patterns, it is also greatly useful in inferring planning related variables such as a city’s land use characteristics. This paper provides a comprehensive investigation on the possibility and validity of utilizing large-scale social media check-in data to infer land use types by applying the state-of-art data mining techniques. Two inference approaches are proposed and tested in this paper: the unsupervised clustering method and supervised learning method. The land use inference is conducted in a uniform grid level of 200 by 200 m. The methods are applied to a case study of New York City. The validation result confirms that the two approaches effectively infer different land use types given sufficient check-in data. The encouraging result demonstrates the potential of using social media check-in data in urban land use inference, and also reveals the hidden linkage between the human activity pattern and the underlying urban land use pattern.
+
+16: -Against the paucity of information on urban parcels in China, we propose a method to automatically identify and characterize parcels using OpenStreetMap (OSM) and points of interest (POI) data. Parcels are the basic spatial units for fine-scale urban modeling, urban studies, and spatial planning. Conventional methods for identification and characterization of parcels rely on remote sensing and field surveys, which are labor intensive and resource consuming. Poorly developed digital infrastructure, limited resources, and institutional barriers have all hampered the gathering and application of parcel data in China. Against this backdrop, we employ OSM road networks to identify parcel geometries and POI data to infer parcel characteristics. A vector-based cellular automata model is adopted to select urban parcels. The method is applied to the entire state of China and identifies 82 645 urban parcels in 297 cities. Notwithstanding all the caveats of open and/or crowd-sourced data, our approach can produce a reasonably good approximation of parcels identified using conventional methods, thus it has the potential to become a useful tool.
+
+17:- High-resolution urban land use maps have important applications in urban planning and management, but the availability of these maps is low in countries such as China. To address this issue, we have developed a protocol to identify urban land use functions over large areas using satellite images and open social data. We first derived parcels from road networks contained in Open Street Map (OSM) and used the parcels as the basic mapping unit. We then used 10 features derived from Points of Interest (POI) data and two indices obtained from Landsat 8 Operational Land Imager (OLI) images to classify parcels into eight Level I classes and sixteen Level II classes of land use. Similarity measures and threshold methods were used to identify land use types in the classification process. This protocol was tested in Beijing, China. The results showed that the generated land use map had an overall accuracy of 81.04% and 69.89% for Level I and Level II classes, respectively. The map revealed significantly more details of the spatial pattern of land uses in Beijing than the land use map released by the government.
+
+18:- Of particular importance to the study of large-scale phenomena in physical geography is the modifiable areal unit problem (MAUP). While often viewed as only a problem in human geography (particularly demographic studies), the MAUP is an issue for all quantitative studies in geography of spatial phenomena (Openshaw and Taylor, 1979). Increasingly, remote sensing and Geographic Information Systems (GIS) are being used to assess the distribution of phenomena from a large scale. These phenomena are modelled using areal units that can take any shape or size resulting in complications with statistical analysis related to both the scale and method used to create the areal units. In this paper, we define the modifiable areal unit problem, present examples of when it is a problem in physical geography studies, and review some potential solutions to the problem. Our aim is to increase awareness of this complicated issue and to promote further discussion and interest in this topic.
+
+20:-The pervasiveness of cell phones and mobile social media applications is generating vast amounts of geolocalized user-generated content. Since the addition of geotagging information, Twitter has become a valuable source for the study of human dynamics. Its analysis is shedding new light not only on understanding human behavior but also on modeling the way people live and interact in their urban environments. In this paper, we evaluate the use of geolocated tweets as a complementary source of information for urban planning applications. Our contributions are focussed in two urban planing areas: (1) a technique to automatically determine land uses in a specific urban area based on tweeting patterns, and (2) a technique to automatically identify urban points of interest as places with high activity of tweets. We apply our techniques in Manhattan (NYC) using 49 days of geolocated tweets and validate them using land use and landmark information provided by various NYC departments. Our results indicate that geolocated tweets are a powerful and dynamic data source to characterize urban environments.
+
+13:- It is essential to characterize geographic regions in order to make 
+various geographic decisions. These regions can be characterized from various 
+perspectives such as the physical appearance of a town. In this paper, as a novel 
+approach to characterize geographic regions, we focus on the daily lifestyle 
+patterns of crowds via location-based social networking sites in urban areas. For 
+this purpose, we propose a novel method to characterize urban areas using 
+Twitter, the most representative microblogging site. In order to grasp images of 
+a city by social network based crowds, we define the geographic regularity of 
+the region using daily crowd activity patterns; for instance, the number of 
+tweets, through the number of users, and the movement of the crowds. We also 
+analyze the changing patterns of geographic regularity with time and categorize 
+clustered urban types by tracking common patterns among the regions. Finally, 
+we present examples of several urban types through the observation of 
+experimentally extracted patterns of crowd behavior in actual urban areas. 
+
+19:-The Modifiable Areal Unit Problem (MAUP) is a major unresolved problem in spatial analysis. It refers to the fact that the results of spatial analysis can vary significantly depending on the definition of the areal units used. This paper discusses the nature and severity of the MAUP and its implications for geographical research.
+
+Problem: The MAUP arises because the spatial units used in most geographical studies are arbitrary and modifiable. Different aggregations of the data can produce dramatically different results.
+
+Examples: The paper provides examples of the MAUP in various fields, such as census data analysis, electoral boundary delimitation, and the study of crime rates.
+
+Consequences: The MAUP has a number of serious consequences for geographical research. It can lead to ecological fallacies, where inferences about individuals are made from aggregate data. It can also make it difficult to compare results across studies that use different areal units.
+
+Possible Solutions: The paper discusses a number of possible solutions to the MAUP. One approach is to develop a new methodology for spatial study that explicitly takes the MAUP into account. Another approach is to use zoning systems that are optimal for a given purpose. The paper suggests that the best approach to dealing with the MAUP is to be aware of its existence and to take its effects into account when designing and interpreting spatial studies.
+
+12:-Individuals generate vast amounts of geolocated content through the use of mobile social media applications. In this context, Twitter has become an important sensor of the interactions between individuals and their environment. Building on this idea, this paper proposes the use of geolocated tweets as a complementary source of information for urban planning applications, focusing on the characterization of land use. The proposed technique uses unsupervised learning and automatically determines land uses in urban areas by clustering geographical regions with similar tweeting activity patterns. Three case studies are presented and validated for Manhattan (NYC), London (UK) and Madrid (Spain) using Twitter activity and land use information provided by the city planning departments. Results indicate that geolocated tweets can be used as a powerful data source for urban planning applications.
+
+11:-This paper presents a novel web-based platform that supports the analysis, integration, and visualization of large-scale and heterogeneous urban data, with application to city planning and decision-making. Motivated by the non-scalable character of conventional urban analytics methods, as well as by the interoperability challenges present in contemporary data silos, the illustrated system – coined SocialGlass – leverages the combined potential of diverse urban data sources. These include sensor and social media streams (Twitter, Instagram, Foursquare), publicly available municipal records, and resources from knowledge repositories. Through data science, semantic integration, and crowdsourcing techniques the platform enables the mapping of demographic information, human movement patterns, place popularity, traffic conditions, as well as citizens' and visitors' opinions and preferences about specific venues in a city. The paper further demonstrates an implemented prototype of the platform and its deploy‐ ment in real-world use cases for monitoring, analyzing, and assessing city-scale events.
